@@ -1,0 +1,10 @@
+C:\Users\kjell\Desktop\VSC Projects\C# - Programmering Projects\DjurparkenWinForms\DjurparkenWinForms\obj\Debug\DjurparkenWinForms.csproj.AssemblyReference.cache
+C:\Users\kjell\Desktop\VSC Projects\C# - Programmering Projects\DjurparkenWinForms\DjurparkenWinForms\obj\Debug\DjurparkenWinForms.Form1.resources
+C:\Users\kjell\Desktop\VSC Projects\C# - Programmering Projects\DjurparkenWinForms\DjurparkenWinForms\obj\Debug\DjurparkenWinForms.Properties.Resources.resources
+C:\Users\kjell\Desktop\VSC Projects\C# - Programmering Projects\DjurparkenWinForms\DjurparkenWinForms\obj\Debug\DjurparkenWinForms.csproj.GenerateResource.cache
+C:\Users\kjell\Desktop\VSC Projects\C# - Programmering Projects\DjurparkenWinForms\DjurparkenWinForms\obj\Debug\DjurparkenWinForms.csproj.CoreCompileInputs.cache
+C:\Users\kjell\Desktop\VSC Projects\C# - Programmering Projects\DjurparkenWinForms\DjurparkenWinForms\bin\Debug\DjurparkenWinForms.exe.config
+C:\Users\kjell\Desktop\VSC Projects\C# - Programmering Projects\DjurparkenWinForms\DjurparkenWinForms\bin\Debug\DjurparkenWinForms.exe
+C:\Users\kjell\Desktop\VSC Projects\C# - Programmering Projects\DjurparkenWinForms\DjurparkenWinForms\bin\Debug\DjurparkenWinForms.pdb
+C:\Users\kjell\Desktop\VSC Projects\C# - Programmering Projects\DjurparkenWinForms\DjurparkenWinForms\obj\Debug\DjurparkenWinForms.exe
+C:\Users\kjell\Desktop\VSC Projects\C# - Programmering Projects\DjurparkenWinForms\DjurparkenWinForms\obj\Debug\DjurparkenWinForms.pdb
